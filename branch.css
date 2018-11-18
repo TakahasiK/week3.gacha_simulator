@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    padding-left:100px; 
+}
+.main img{
+    width:300px;
+    margin: 100px;
+}
+.left{
+    text-align: center;
+}
+.right{
+    text-align: center;
+    
+}

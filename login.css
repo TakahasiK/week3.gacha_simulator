@@ -1,0 +1,17 @@
+body{
+    background-image: url(picture/login.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login{
+    padding: 25px 100px 50px 100px;
+}
+
+.main{
+    text-align: center;
+    color: aliceblue;
+}
+.button{
+    text-align: center;
+    padding: 3px;
+}

@@ -1,0 +1,26 @@
+body{
+    background-image: url(picture/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    text-align: center;
+    animation: fadeIn 0s ease 0s 1 normal;
+    -webkit-animation: fadeIn 8s ease 0s 1 normal;
+}
+@keyframes fadeIn {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}
+/* cardからここまでは浮き出るようなCSSだが理解していないため再復習 */
+.random{
+    color: aliceblue;
+}
+.button{
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+body{
+    background-image: url(picture/main4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    text-align: center;
+}
+.btn {
+    margin: 135px 0 0 0;
+    color: aliceblue;
+    opacity: 0;
+    display: inline-block;
+  text-decoration: none;
+  background: #87befd;
+  color: #FFF;
+  width: 320px;
+  height: 320px;
+  line-height: 120px;
+  border-radius: 50%;
+  text-align: center;
+  vertical-align: middle;
+  transition: .4s;
+}
